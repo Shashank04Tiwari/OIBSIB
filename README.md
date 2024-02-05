@@ -1,2 +1,2 @@
 # OIBSIB
-OIBSIP Intership Tasks (Web Development)
+OIBSIP Intership Tasks (Python)
