@@ -40,7 +40,7 @@ def bmi_index(bmi):
         messagebox.showerror('bmi-pythonguides', 'something went wrong!')   
 
 ws = Tk()
-ws.title('Sshashank BMI calculator')
+ws.title('Shashank BMI calculator')
 ws.geometry('400x300')
 ws.config(bg='#686e70')
 
